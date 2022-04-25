@@ -1,0 +1,1 @@
+const idade_motorista = Number(window.prompt("Digite a idade do motorista")) >= 18 ? window.alert("Pode dirigir") : window.alert("Não pode dirigir")
